@@ -1,0 +1,103 @@
+
+@media screen and (max-width:800px) {
+
+
+* {
+    max-width: 500px;
+}
+
+.content {
+    background-color: gray;
+    border: 1px solid black;
+}
+
+#topDiv {
+    border: none;
+    margin: none;
+    padding: none;
+}
+
+#topDiv div {
+   
+    margin: none;
+    padding: none;
+}
+
+#a {
+width: 480px;
+height: 75px;
+}
+
+#b {
+    width: 480px;
+    height: 150px;
+}
+
+#c {
+    width: 480px;
+    height: 150px;
+}
+
+#d {
+    width: 480px;
+    height: 125px;
+}
+
+#middleDiv {
+    border: none;
+    margin: none;
+    padding: none;
+    display: inline;
+   
+}
+
+#middleDiv div {
+    float: left;
+    background-color: gray;
+    border: 1px solid black;
+    margin: none;
+    padding: none;
+}
+
+#e {
+width: 240px;
+height: 250px;
+}
+
+#f {
+    width: 240px;
+    height: 250px;
+    }
+
+#g {
+    width: 240px;
+    height: 250px;
+    }
+
+#h {
+    width: 240px;
+    height: 250px;
+    }
+
+#bottomDiv{
+    border: none;
+    margin: none;
+    padding: none;
+    display: inline;
+   
+}
+
+#bottomDiv div {
+    float: left;
+    background-color: gray;
+    border: 1px solid black;
+    margin: none;
+    padding: none;
+}
+
+#i {
+    width: 480px;
+    height: 80px;
+}
+
+}
